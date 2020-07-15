@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "updated_cuda_fast_image_encryption", "updated_cuda_fast_image_encryption\updated_cuda_fast_image_encryption.vcxproj", "{B3A064FC-43DC-410D-83DC-63A55B4834B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A064FC-43DC-410D-83DC-63A55B4834B1}.Debug|x64.ActiveCfg = Debug|x64
+		{B3A064FC-43DC-410D-83DC-63A55B4834B1}.Debug|x64.Build.0 = Debug|x64
+		{B3A064FC-43DC-410D-83DC-63A55B4834B1}.Release|x64.ActiveCfg = Release|x64
+		{B3A064FC-43DC-410D-83DC-63A55B4834B1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB473E2-E5CB-43F4-8013-BD37BFA3F505}
+	EndGlobalSection
+EndGlobal
